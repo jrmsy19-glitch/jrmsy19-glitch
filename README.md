@@ -11,11 +11,11 @@ Aspiring IT professional focused on Help Desk, Technical Support, and System Adm
 * **Zendesk Omnichannel Specialist** (7 Support Badges)
 
 ### In Progress & Technical Learning Paths
-* **CompTIA A+** (In Progress) 
-* **Microsoft SC-300:** Identity and Access Administrator Learning Path (Microsoft Learn)
-* **Microsoft SC-900:** Security, Compliance, and Identity Fundamentals Learning Path (Microsoft Learn)
+* **CompTIA A+** (In Progress)
+* **Microsoft SC-300:** Identity and Access Administrator Certification (In Progress)
+* **Microsoft SC-900:** Security, Compliance, and Identity Fundamentals Learning Path (Completed)
 * **Microsoft MS-900:** Microsoft 365 Fundamentals Learning Path (Completed)
-* **Cisco:** Introduction to Packet Tracer (Network Simulation & Modeling)
+* **Cisco:** Introduction to Packet Tracer : Network Simulation & Modeling (Completed)
 
 ---
 

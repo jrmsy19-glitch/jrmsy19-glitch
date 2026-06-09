@@ -37,7 +37,75 @@ Enterprise Client Deployment: Deployed TeamViewer as a third-party remote manage
 
 ## 🚀 Key Skills Demonstrated
 * Systems Administration | Virtualization (macOS/Windows Server) | Active Directory Domain Services (AD DS) | Identity & Access Management (IAM) | PowerShell & CLI Automation | Group Policy Management (GPOs) | Cybersecurity Hardening & Environment Lockdown | NTFS Permissions & File Share Security | Enterprise Remote Support Tools (TeamViewer)
+---
 
+## 📸 Lab Deployment & Validation Gallery
+
+This section compiles the technical documentation and visual validation of the Plush Realty Group enterprise lab environment.
+
+### 💻 Infrastructure & Virtualization
+
+#### Figure 1.1: Cloud Orchestration Environment
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2dc04a4b-98f7-40ed-a6de-d74f57765581" width="750" alt="GCP and VM Orchestration">
+</p>
+<p align="center"><i>Cross-platform orchestration—deploying and running Windows Server 2022 instances inside Google Cloud Platform (GCP) Compute Engine using a macOS host endpoint.</i></p>
+
+---
+
+### 🏛️ Directory Services & Automation
+
+#### Figure 2.1: Active Directory OU Hierarchy
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c940772-e23d-4804-8e63-3b4b5b05e4b8" width="750" alt="Active Directory OU Structure">
+</p>
+<p align="center"><i>Logical organization within Active Directory Users and Computers (ADUC), establishing structured OUs for Corporate Headquarters (PRG-HQ), Regional Branches (PRG-Branches), and External Contractors.</i></p>
+
+---
+
+#### Figure 2.2: Bulk User Provisioning via Command Line
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5d46f5b-c2e3-4017-ade7-1d38f520b8da" alt="Bulk User Provisioning Script">
+</p>
+<p align="center"><i>Leveraging command-line automation for bulk object ingestion and standardized identity provisioning across target organizational groups.</i></p>
+
+---
+
+### 🔐 Group Policy Objects & Security Hardening
+
+#### Figure 3.1: Account Lockout Policy Enforcement
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d426de2-a735-4a1d-b85b-2636a66ba15d" width="750" alt="Account Lockout Policy">
+</p>
+<p align="center"><i>Hardening identity infrastructure by implementing an Account Lockout Policy under the custom PRG-Security-Policy GPO to mitigate brute-force and credential-stuffing attacks.</i></p>
+
+---
+
+#### Figure 3.2: Password Complexity & Lifecycle Controls
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6bb49d6a-1bce-4d83-b309-fe6968c26866" width="750" alt="Password Password Complexity Policy">
+</p>
+<p align="center"><i>Configuring robust password enforcement rules, establishing a 12-character minimum length restriction, and mandating strict complexity validation for domain identities.</i></p>
+
+---
+
+### 📂 File Services & Access Auditing
+
+#### Figure 4.1: Effective Access Security Verification
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e3c3fbc-a2b5-44e0-b094-c740abe67f5e" width="750" alt="Effective Access Share Auditing">
+</p>
+<p align="center"><i>Auditing shared file structures using Effective Access verification to validate strict NTFS security isolation and prevent unauthorized data privilege leakage.</i></p>
+
+---
+
+### 🌐 Technical Support & Remote Operations
+
+#### Figure 5.1: Cross-Platform Remote Support Session
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8630ab5-6824-4e99-8232-bbf90b522ff1" alt="TeamViewer Remote Desktop Verification">
+</p>
+<p align="center"><i>Simulating an enterprise support desk scenario—utilizing a secure, brokered TeamViewer tunnel to establish remote host control from a macOS technician endpoint to the target cloud VM node.</i></p>
 <!--
 **jrmsy19-glitch/jrmsy19-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -35,10 +35,8 @@ Enterprise Client Deployment: Deployed TeamViewer as a third-party remote manage
 
 * System Architecture Documentation: Drafted and verified accurate technical documentation directly inside the remote host session to correctly define client-host relationships according to industry standards.
 
-## 🚀 Key Skills Demonstrated
-* Systems Administration | Virtualization (macOS/Windows Server) | Active Directory Domain Services (AD DS) | Identity & Access Management (IAM) | PowerShell & CLI Automation | Group Policy Management (GPOs) | Cybersecurity Hardening & Environment Lockdown | NTFS Permissions & File Share Security | Enterprise Remote Support Tools (TeamViewer)
----
 
+---
 ## 📸 Lab Deployment & Validation Gallery
 
 This section compiles the technical documentation and visual validation of the Plush Realty Group enterprise lab environment.
@@ -106,6 +104,12 @@ This section compiles the technical documentation and visual validation of the P
   <img src="https://github.com/user-attachments/assets/f8630ab5-6824-4e99-8232-bbf90b522ff1" alt="TeamViewer Remote Desktop Verification">
 </p>
 <p align="center"><i>Simulating an enterprise support desk scenario—utilizing a secure, brokered TeamViewer tunnel to establish remote host control from a macOS technician endpoint to the target cloud VM node.</i></p>
+
+---
+
+## 🚀 Key Skills Demonstrated
+* Systems Administration | Virtualization (macOS/Windows Server) | Active Directory Domain Services (AD DS) | Identity & Access Management (IAM) | PowerShell & CLI Automation | Group Policy Management (GPOs) | Cybersecurity Hardening & Environment Lockdown | NTFS Permissions & File Share Security | Enterprise Remote Support Tools (TeamViewer)
+---
 <!--
 **jrmsy19-glitch/jrmsy19-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

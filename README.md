@@ -107,9 +107,12 @@ This section compiles the technical documentation and visual validation of the P
 
 ---
 
-## 🚀 Key Skills Demonstrated
-* Systems Administration | Virtualization (macOS/Windows Server) | Active Directory Domain Services (AD DS) | Identity & Access Management (IAM) | PowerShell & CLI Automation | Group Policy Management (GPOs) | Cybersecurity Hardening & Environment Lockdown | NTFS Permissions & File Share Security | Enterprise Remote Support Tools (TeamViewer)
----
+### 🛠️ Key Skills Demonstrated
+
+* **Systems Administration & Virtualization:** Windows Server 2022 Deployment | macOS Management Endpoint Operations | GCP Compute Engine Orchestration
+* **Identity & Access Management (IAM):** Active Directory Domain Services (AD DS) | Organizational Unit (OU) Architecture | Bulk User Ingestion & Provisioning Automation
+* **Group Policy Management (GPOs):** Custom Security Object Baselines | Password Complexity Enforcement | Account Lockout Defense & Cybersecurity Hardening
+* **Network & Support Engineering:** Cross-Platform Remote Support (TeamViewer) | Secure Remote Pipeline Architecture | NTFS File Permissions & Share Access Auditing
 <!--
 **jrmsy19-glitch/jrmsy19-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

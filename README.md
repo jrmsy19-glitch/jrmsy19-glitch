@@ -32,7 +32,7 @@ Aspiring IT professional focused on Help Desk, Technical Support, and System Adm
 
 ## 🏛️ Featured Information Technology Projects
 
-### 🌐 [Active Directory & GPO Security Hardening Lab](YOUR_NEW_LAB_REPOSITORY_URL_HERE)
+### 🌐 [Active Directory & GPO Security Hardening Lab](https://github.com/jrmsy19-glitch/Active-Directory-GPO-Lab)
 A comprehensive, multi-branch enterprise environment deployed entirely within Google Cloud Platform virtual machines using Windows Server 2022. 
 * Designed a scalable Organizational Unit (OU) structure for a corporate hierarchy.
 * Automated bulk user identity ingestion via command-line batch scripts.
